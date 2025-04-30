@@ -1,6 +1,6 @@
 # 🦓 Asanka Sovis
 
-![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/c42b2de63487e118e648d525cd7749347056a311/.sources/Cover.png)
+![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/.sources/Cover.png)
 
 > Software Engineer | Embedded Firmware Engineer | Electronic Engineer
 
